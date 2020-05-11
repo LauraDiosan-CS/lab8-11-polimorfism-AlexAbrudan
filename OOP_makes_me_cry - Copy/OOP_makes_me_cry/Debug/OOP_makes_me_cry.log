@@ -1,0 +1,37 @@
+﻿  Exception.cpp
+  Exception2.cpp
+  Exception3.cpp
+  Exception4.cpp
+  FreightTrain.cpp
+  OOP_makes_me_cry.cpp
+  PersonalTrain.cpp
+  RepoFileTrain.cpp
+  RepoFileTrainCSV.cpp
+  RepoFileTrainTXT.cpp
+  RepoFileUser.cpp
+  RepoFileUserCSV.cpp
+  RepoFileUserTXT.cpp
+  RepoTrain.cpp
+D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\OOP_makes_me_cry\RepoTrain.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+  RepoUser.cpp
+  Service.cpp
+D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\OOP_makes_me_cry\Service.cpp(51,17): warning C4018: '<': signed/unsigned mismatch
+  tests.cpp
+D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\OOP_makes_me_cry\tests.cpp(215,22): warning C4101: 'UpdateException1': unreferenced local variable
+D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\OOP_makes_me_cry\tests.cpp(219,24): warning C4101: 'UpdateException2': unreferenced local variable
+D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\OOP_makes_me_cry\tests.cpp(223,24): warning C4101: 'UpdateException3': unreferenced local variable
+D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\OOP_makes_me_cry\tests.cpp(234,23): warning C4101: 'UpdateException1': unreferenced local variable
+D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\OOP_makes_me_cry\tests.cpp(242,24): warning C4101: 'UpdateException2': unreferenced local variable
+D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\OOP_makes_me_cry\tests.cpp(246,24): warning C4101: 'UpdateException3': unreferenced local variable
+D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\OOP_makes_me_cry\tests.cpp(257,23): warning C4101: 'UpdateException1': unreferenced local variable
+D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\OOP_makes_me_cry\tests.cpp(261,24): warning C4101: 'UpdateException2': unreferenced local variable
+D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\OOP_makes_me_cry\tests.cpp(270,24): warning C4101: 'UpdateException3': unreferenced local variable
+  Train.cpp
+  UI.cpp
+  User.cpp
+  Generating Code...
+D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\OOP_makes_me_cry\Service.cpp(70): warning C4715: 'Service::update_train': not all control paths return a value
+  Compiling...
+  Utils.cpp
+  Generating Code...
+  OOP_makes_me_cry.vcxproj -> D:\Projects\Astea is C++\OOP_makes_me_cry - Copy\Debug\OOP_makes_me_cry.exe
